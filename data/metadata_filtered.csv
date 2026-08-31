@@ -1,0 +1,219 @@
+file_id,genus,species,english_cname,who_provided_recording,country,latitude,longitute,type,license,file_length,sample_rate
+132608,Acanthis,flammea,Common Redpoll,Jarek Matusiak,Poland,50.7932,15.4995,"female, male, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,38.55673469387755,44100
+132611,Acanthis,flammea,Common Redpoll,Jarek Matusiak,Poland,50.7932,15.4995,"flight call, male, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,12.695510204081632,44100
+35068,Acanthis,flammea,Common Redpoll,Sander Bot,Netherlands,52.8176,6.4326,"call, song",http://creativecommons.org/licenses/by-nc-nd/2.5/,5.067755102040817,44100
+82715,Acrocephalus,palustris,Marsh Warbler,Dougie Preston,United Kingdom,60.3539,-1.2689,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,16.22204081632653,44100
+64685,Acrocephalus,palustris,Marsh Warbler,Dougie Preston,United Kingdom,60.3539,-1.2689,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,12.93061224489796,44100
+64686,Acrocephalus,palustris,Marsh Warbler,Dougie Preston,United Kingdom,60.3539,-1.2689,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,17.580408163265307,44100
+120664,Acrocephalus,schoenobaenus,Sedge Warbler,david m,United Kingdom,56.586,-6.1855,"male, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,250.95814058956915,44100
+120666,Acrocephalus,schoenobaenus,Sedge Warbler,david m,United Kingdom,56.586,-6.1855,"male, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,250.8014058956916,44100
+76767,Acrocephalus,schoenobaenus,Sedge Warbler,Richard Dunn,United Kingdom,55.2809,-1.5801,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,7.549160997732426,44100
+124052,Acrocephalus,scirpaceus,Eurasian Reed Warbler,david m,United Kingdom,51.8985,-0.5372,"call, female, male, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,88.8944671201814,44100
+124053,Acrocephalus,scirpaceus,Eurasian Reed Warbler,david m,United Kingdom,51.8985,-0.5372,"call, female, male, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,107.88548752834467,44100
+27999,Acrocephalus,scirpaceus,Eurasian Reed Warbler,Stuart Fisher,United Kingdom,51.2887,-0.5267,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,56.50263038548753,44100
+123169,Alauda,arvensis,Eurasian Skylark,david m,United Kingdom,54.128,-0.5574,"male, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,240.56140589569162,44100
+123170,Alauda,arvensis,Eurasian Skylark,david m,United Kingdom,54.128,-0.5574,"male, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,240.50916099773244,44100
+158166,Alauda,arvensis,Eurasian Skylark,david m,United Kingdom,54.127,-0.556,"male, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,104.54378684807256,44100
+138979,Anthus,pratensis,Meadow Pipit,Fernand DEROUSSEN,Norway,70.3753,28.4628,song,http://creativecommons.org/licenses/by-nc-nd/3.0/,31.24222222222222,44100
+30614,Anthus,pratensis,Meadow Pipit,Ruud van Beusekom,Netherlands,52.2823,5.2256,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,151.37936507936507,44100
+142431,Anthus,pratensis,Meadow Pipit,Erik Roels,Netherlands,51.3246,3.7232,"flight call, male, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,83.85283446712018,44100
+83705,Anthus,trivialis,Tree Pipit,Jelmer Poelstra,Sweden,60.157,17.639,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,54.22997732426304,44100
+33395,Anthus,trivialis,Tree Pipit,Mark Harper,United Kingdom,53.2112,-1.0717,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,48.48303854875284,44100
+99299,Anthus,trivialis,Tree Pipit,Tony Whitehead,United Kingdom,50.658,-3.719,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,31.007120181405895,44100
+156388,Caprimulgus,europaeus,European Nightjar,Jack Berteau,France,46.5874,0.2243,"male, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,46.10589569160998,44100
+67229,Caprimulgus,europaeus,European Nightjar,Patrik berg,Sweden,58.4762,14.3726,Song,http://creativecommons.org/licenses/by-nc-sa/3.0/,41.97854875283447,44100
+27039,Caprimulgus,europaeus,European Nightjar,Patrik berg,Sweden,58.4392,14.3298,Song,http://creativecommons.org/licenses/by-nc-sa/3.0/,73.24712018140589,44100
+133880,Carduelis,carduelis,European Goldfinch,Mike Nelson,United Kingdom,55.9937,-3.5605,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,14.680589569160997,44100
+97792,Carduelis,carduelis,European Goldfinch,Richard Dunn,United Kingdom,55.239,-1.566,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,38.26916099773243,44100
+133886,Carduelis,carduelis,European Goldfinch,Mike Nelson,United Kingdom,56.0058,-3.5162,"flight call, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,24.894467120181407,44100
+70129,Certhia,familiaris,Eurasian Treecreeper,Paul Driver,United Kingdom,51.721,-0.145,"song, flight  and contact calls",http://creativecommons.org/licenses/by-nc-nd/2.5/,29.883854875283447,44100
+130409,Certhia,familiaris,Eurasian Treecreeper,Jelmer Poelstra,Sweden,60.257,17.2172,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,158.77201814058958,44100
+146753,Certhia,familiaris,Eurasian Treecreeper,David Darrell-Lambert,United Kingdom,51.5826,-0.1426,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,13.511791383219954,44100
+28961,Chloris,chloris,European Greenfinch,Stuart Fisher,United Kingdom,51.5278,-0.01,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,35.08222222222222,44100
+99155,Chloris,chloris,European Greenfinch,Tony Whitehead,United Kingdom,50.486,-3.656,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,33.80222222222222,44100
+124013,Chloris,chloris,European Greenfinch,Ashley Fisher,United Kingdom,49.9168,-6.3027,"male, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,31.111609977324264,44100
+129576,Chroicocephalus,ridibundus,Black-headed Gull,Alexandre Renaudier,France,46.401,6.514,"alarm call, call, flight call, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,52.24777777777778,44100
+129577,Chroicocephalus,ridibundus,Black-headed Gull,Alexandre Renaudier,France,46.401,6.514,"alarm call, call, flight call, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,55.75179138321995,44100
+143894,Chroicocephalus,ridibundus,Black-headed Gull,Dan Stowell,United Kingdom,55.9104,-3.3199,song,http://creativecommons.org/licenses/by-sa/3.0/,62.6936507936508,44100
+92264,Columba,livia,Rock Dove,Herman van der Meer,Netherlands,52.0775,4.3249,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,40.12385487528345,44100
+116226,Columba,livia,Rock Dove,Jarek Matusiak,Poland,52.2129,21.0353,"male, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,5.276734693877551,44100
+89994,Columba,oenas,Stock Dove,Herman van der Meer,Netherlands,52.129,4.332,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,100.67569160997732,44100
+82971,Columba,oenas,Stock Dove,Volker Arnold,Germany,54.147,9.222,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,8.385079365079365,44100
+77429,Columba,oenas,Stock Dove,Niels Krabbe,Sweden,56.4334,12.5667,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,108.69551020408163,44100
+130993,Columba,palumbus,Common Wood Pigeon,Ashley Fisher,United Kingdom,49.9172,-6.3034,"male, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,14.184263038548753,44100
+94614,Columba,palumbus,Common Wood Pigeon,Frank Lambert,United Kingdom,50.8889,0.422,song,http://creativecommons.org/licenses/by-nc-nd/3.0/,157.75179138321997,44100
+94615,Columba,palumbus,Common Wood Pigeon,Frank Lambert,United Kingdom,50.8889,0.422,song,http://creativecommons.org/licenses/by-nc-nd/3.0/,34.89578231292517,44100
+143002,Corvus,frugilegus,Rook,Andre et Odile BOUCHER,France,45.398,4.2902,"call, flight call, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,40.09773242630386,44100
+143005,Corvus,frugilegus,Rook,Andre et Odile BOUCHER,France,45.398,4.2902,"call, flight call, juvenile, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,33.38426303854875,44100
+33392,Cuculus,canorus,Common Cuckoo,Mark Harper,United Kingdom,53.2112,-1.0717,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,13.505079365079364,44100
+37447,Cuculus,canorus,Common Cuckoo,David Farrow,United Kingdom,52.65806,1.051941,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,38.948344671201816,44100
+134671,Cuculus,canorus,Common Cuckoo,Ashley Fisher,United Kingdom,49.9092,-6.3039,"male, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,18.180997732426302,44100
+42178,Cyanistes,caeruleus,Eurasian Blue Tit,Stuart Fisher,United Kingdom,51.5501,0.0137,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,36.57142857142857,44100
+44203,Cyanistes,caeruleus,Eurasian Blue Tit,Stuart Fisher,United Kingdom,51.5501,0.0137,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,95.320589569161,44100
+131316,Cyanistes,caeruleus,Eurasian Blue Tit,Dan Stowell,United Kingdom,51.5934,0.0256,song,http://creativecommons.org/licenses/by-sa/3.0/,53.10671201814059,44100
+148465,Delichon,urbicum,Common House Martin,Patrik berg,Spain,39.8427,-5.9972,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,104.41120181405896,44100
+133444,Delichon,urbicum,Common House Martin,Roberto Lerco,Italy,45.6851,11.0856,"flight call, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,72.41120181405896,44100
+142697,Delichon,urbicum,Common House Martin,Fernand DEROUSSEN,France,42.5816,2.7787,"alarm call, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,46.78507936507936,44100
+130426,Dryocopus,martius,Black Woodpecker,Jelmer Poelstra,Sweden,60.2513,17.1808,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,16.038956916099774,44100
+98942,Dryocopus,martius,Black Woodpecker,Filip Verbelen,Belgium,50.958,3.727,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,10.344263038548753,44100
+155975,Dryocopus,martius,Black Woodpecker,Jack Berteau,France,46.5966,0.1988,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,52.31977324263038,44100
+123168,Emberiza,calandra,Corn Bunting,david m,United Kingdom,54.1243,-0.557,"male, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,250.54018140589568,44100
+125777,Emberiza,calandra,Corn Bunting,david m,United Kingdom,54.1242,-0.5543,"male, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,251.1671201814059,44100
+123167,Emberiza,calandra,Corn Bunting,david m,United Kingdom,54.1243,-0.557,"male, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,250.8797732426304,44100
+102106,Emberiza,citrinella,Yellowhammer,Richard Dunn,United Kingdom,55.1089,-1.7028,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,27.062630385487527,44100
+102107,Emberiza,citrinella,Yellowhammer,Richard Dunn,United Kingdom,55.1089,-1.7028,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,88.42426303854876,44100
+145533,Emberiza,citrinella,Yellowhammer,Patrik berg,United Kingdom,52.9382,1.1089,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,71.02671201814059,44100
+102048,Emberiza,schoeniclus,Common Reed Bunting,Richard Dunn,United Kingdom,55.07,-1.6059,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,24.42426303854875,44100
+102803,Emberiza,schoeniclus,Common Reed Bunting,Richard Dunn,United Kingdom,55.2809,-1.5801,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,46.262630385487526,44100
+86327,Emberiza,schoeniclus,Common Reed Bunting,David Farrow,United Kingdom,52.497,0.722,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,49.00548752834467,44100
+70124,Erithacus,rubecula,European Robin,Paul Driver,United Kingdom,51.721,-0.145,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,42.370385487528345,44100
+30390,Erithacus,rubecula,European Robin,Stuart Fisher,United Kingdom,51.317,-0.5592,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,195.86589569160998,44100
+133862,Erithacus,rubecula,European Robin,Mike Nelson,United Kingdom,55.9937,-3.5605,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,76.98263038548752,44100
+42803,Fringilla,coelebs,Common Chaffinch,Stuart Fisher,United Kingdom,51.5676,0.0451,'plastic' song/subsong,http://creativecommons.org/licenses/by-nc-nd/2.5/,75.33691609977325,44100
+122548,Fringilla,coelebs,Common Chaffinch,Ashley Fisher,United Kingdom,49.9172,-6.3034,"call, male, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,81.65854875283446,44100
+121597,Fringilla,coelebs,Common Chaffinch,david m,United Kingdom,54.1245,-0.5722,"call, male, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,208.50916099773244,44100
+27080,Gallinago,gallinago,Common Snipe,Patrik berg,Sweden,58.3714,14.1395,"call, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,29.021814058956917,44100
+90977,Gallinago,gallinago,Common Snipe,Lars Lachmann,Poland,53.5001,22.7334,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,28.473469387755102,44100
+135270,Gallinago,gallinago,Common Snipe,Jelmer Poelstra,Sweden,60.0947,17.5442,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,22.308344671201812,44100
+127136,Garrulus,glandarius,Eurasian Jay,"Hemprich,M.",Germany,47.6773,9.3935,"imitation, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,17.78938775510204,44100
+142908,Garrulus,glandarius,Eurasian Jay,Matthias Hemprich,Germany,47.6525,9.4569,"migrant bird, song, subsong",http://creativecommons.org/licenses/by-nc-sa/3.0/,22.099591836734692,44100
+46223,Garrulus,glandarius,Eurasian Jay,Ruud van Beusekom,Netherlands,52.3048,5.2028,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,83.59160997732427,44100
+58571,Gavia,stellata,Red-throated Loon,Patrik berg,Sweden,59.793,14.482,territorial call and song,http://creativecommons.org/licenses/by-nc-sa/3.0/,63.007120181405895,44100
+58573,Gavia,stellata,Red-throated Loon,Patrik berg,Sweden,59.793,14.482,territorial call and song,http://creativecommons.org/licenses/by-nc-sa/3.0/,80.06507936507937,44100
+58579,Gavia,stellata,Red-throated Loon,Patrik berg,Sweden,59.793,14.482,terrotorial  call and song,http://creativecommons.org/licenses/by-nc-sa/3.0/,174.86344671201815,44100
+53817,Haematopus,ostralegus,Eurasian Oystercatcher,Niels Krabbe,Sweden,56.4334,12.5667,song 4 birds in flight,http://creativecommons.org/licenses/by-nc-sa/3.0/,78.02775510204081,44100
+25754,Haematopus,ostralegus,Eurasian Oystercatcher,Niels Krabbe,Denmark,55.8334,10.6001,songs of group of 3 birds,http://creativecommons.org/licenses/by-nc-sa/3.0/,38.32163265306122,44100
+76241,Haematopus,ostralegus,Eurasian Oystercatcher,Volker Arnold,Germany,54.068,8.976,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,60.969569160997736,44100
+157322,Hirundo,rustica,Barn Swallow,david m,United Kingdom,54.12,-0.5445,"male, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,154.5597732426304,44100
+157331,Hirundo,rustica,Barn Swallow,david m,United Kingdom,54.12,-0.5445,"male, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,250.5597732426304,44100
+157279,Hirundo,rustica,Barn Swallow,david m,United Kingdom,54.12,-0.5445,"male, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,125.01578231292517,44100
+108002,Jynx,torquilla,Eurasian Wryneck,Jelmer Poelstra,Sweden,59.9128,17.6201,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,40.4637641723356,44100
+133054,Jynx,torquilla,Eurasian Wryneck,Jarek Matusiak,Poland,52.3603,20.9157,"male, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,175.0465306122449,44100
+133471,Jynx,torquilla,Eurasian Wryneck,Lars Lachmann,Germany,52.5245,13.0124,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,166.29551020408164,44100
+130283,Lagopus,lagopus,Willow Ptarmigan,Stein . Nilsen,Norway,69.5778,18.6401,"Display, call, lekking, male, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,175.15179138321994,44100
+149806,Lagopus,lagopus,Willow Ptarmigan,Jens Kirkeby,Norway,69.6365,18.8518,"male, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,41.39977324263039,44100
+71943,Lagopus,lagopus,Willow Ptarmigan,Richard Dunn,United Kingdom,54.813,-2.254,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,7.967120181405896,44100
+126481,Larus,argentatus,European Herring Gull,Stein . Nilsen,Norway,69.5667,18.6001,"call, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,73.53578231292516,44100
+154285,Larus,argentatus,European Herring Gull,Fernand Deroussen,France,48.6869,-2.3157,"call, colony, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,53.951791383219955,44100
+125486,Larus,argentatus,European Herring Gull,Stein . Nilsen,Norway,69.5778,18.6401,"flight call, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,38.25578231292517,44100
+102060,Linaria,cannabina,Common Linnet,Richard Dunn,United Kingdom,55.01,-1.898,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,152.50263038548752,44100
+125782,Linaria,cannabina,Common Linnet,david m,United Kingdom,54.1246,-0.5465,"call, female, male, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,251.03650793650795,44100
+145534,Linaria,cannabina,Common Linnet,Patrik berg,United Kingdom,52.9382,1.1089,"call, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,102.16467120181406,44100
+83760,Locustella,fluviatilis,River Warbler,Kamil Cihak,Czech Republic,,,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,29.231791383219953,44100
+140557,Locustella,fluviatilis,River Warbler,Fernand DEROUSSEN,Poland,52.7362,23.7847,song,http://creativecommons.org/licenses/by-nc-nd/3.0/,59.53283446712018,44100
+110303,Locustella,fluviatilis,River Warbler,Patrik berg,Sweden,58.6333,14.0843,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,94.17120181405896,44100
+94211,Loxia,curvirostra,Red Crossbill,Richard Dunn,United Kingdom,55.212,-2.043,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,68.20548752834468,44100
+94212,Loxia,curvirostra,Red Crossbill,Richard Dunn,United Kingdom,55.212,-2.043,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,26.043854875283447,44100
+99862,Loxia,curvirostra,Red Crossbill,Tony Whitehead,United Kingdom,50.651,-3.582,Call Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,66.8471201814059,44100
+123808,Luscinia,megarhynchos,Common Nightingale,david m,United Kingdom,51.9001,-0.5289,"male, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,250.8014058956916,44100
+123810,Luscinia,megarhynchos,Common Nightingale,david m,United Kingdom,51.9001,-0.5289,"male, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,250.54018140589568,44100
+132580,Luscinia,megarhynchos,Common Nightingale,Kieran Nixon,United Kingdom,52.9515,1.0895,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,65.95918367346938,44100
+141026,Merops,apiaster,European Bee-eater,Fernand DEROUSSEN,France,43.5722,4.5868,song,http://creativecommons.org/licenses/by-nc-nd/3.0/,48.92734693877551,44100
+97194,Merops,apiaster,European Bee-eater,Rodolphe ALEXIS,Spain,,,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,41.37578231292517,44100
+69792,Motacilla,flava,Western Yellow Wagtail,Louis A. hansen,Denmark,54.5667,11.96242,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,34.15179138321995,44100
+102788,Motacilla,flava,Western Yellow Wagtail,Jarek Matusiak,Poland,51.338,22.965,"call, song",http://creativecommons.org/licenses/by-nc-nd/2.5/,109.05578231292517,44100
+36637,Motacilla,flava,Western Yellow Wagtail,Rob van Bemmelen,Sweden,65.957,16.2078,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,38.71324263038549,44100
+103145,Muscicapa,striata,Spotted Flycatcher,maudoc,Italy,45.4191,10.8205,song,http://creativecommons.org/licenses/by-nc-nd/3.0/,36.72816326530612,44100
+134042,Muscicapa,striata,Spotted Flycatcher,Volker Arnold,Hungary,47.16,20.2228,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,26.723038548752836,44100
+139372,Muscicapa,striata,Spotted Flycatcher,Mats Rellmar,Sweden,56.0673,13.0125,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,43.77575963718821,44100
+27152,Oriolus,oriolus,Eurasian Golden Oriole,Patrik berg,Sweden,58.4834,14.5014,Song,http://creativecommons.org/licenses/by-nc-sa/3.0/,105.24712018140589,44100
+101377,Oriolus,oriolus,Eurasian Golden Oriole,Krzysiek Deoniziak,Poland,52.272,16.797,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,73.05578231292517,44100
+80356,Oriolus,oriolus,Eurasian Golden Oriole,Niels Krabbe,Sweden,55.6501,13.5667,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,45.008979591836734,44100
+122555,Parus,major,Great Tit,Ashley Fisher,United Kingdom,49.9222,-6.2917,"male, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,36.46671201814059,44100
+94652,Parus,major,Great Tit,Richard Dunn,United Kingdom,55.129,-1.873,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,15.176916099773242,44100
+71454,Parus,major,Great Tit,Richard Dunn,United Kingdom,55.219,-1.765,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,57.75650793650794,44100
+134291,Passer,domesticus,House Sparrow,Lars Lachmann,Germany,52.7877,9.1168,"call, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,34.16816326530612,44100
+151150,Passer,domesticus,House Sparrow,Jarek Matusiak,Poland,52.6646,23.5784,"male, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,49.223786848072564,44100
+29766,Passer,domesticus,House Sparrow,Stuart Fisher,United Kingdom,52.7601,0.2973,"call, song",http://creativecommons.org/licenses/by-nc-nd/2.5/,53.05446712018141,44100
+143465,Passer,montanus,Eurasian Tree Sparrow,Buhl Johannes,Germany,48.2976,10.9317,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,184.29578231292518,44100
+90122,Passer,montanus,Eurasian Tree Sparrow,Volker Arnold,Germany,54.191,9.106,"call, song",http://creativecommons.org/licenses/by-nc-nd/2.5/,116.16630385487528,44100
+43764,Passer,montanus,Eurasian Tree Sparrow,Jarek Matusiak,Poland,52.30470007,20.94783783,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,52.463786848072566,44100
+46209,Perdix,perdix,Grey Partridge,Matthias Feuersenger,Germany,49.5863,8.4318,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,14.027528344671202,44100
+46211,Perdix,perdix,Grey Partridge,Matthias Feuersenger,Germany,49.5863,8.4318,"flight calls, song",http://creativecommons.org/licenses/by-nc-nd/2.5/,10.44875283446712,44100
+42430,Perdix,perdix,Grey Partridge,Patrik berg,Sweden,56.4451,16.5662,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,75.96385487528345,44100
+95058,Periparus,ater,Coal Tit,Richard Dunn,United Kingdom,55.31,-2.114,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,30.040589569160996,44100
+98842,Periparus,ater,Coal Tit,Tony Whitehead,United Kingdom,50.596,-3.727,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,20.1140589569161,44100
+132149,Periparus,ater,Coal Tit,Paul Driver,United Kingdom,51.721,-0.145,extended song,http://creativecommons.org/licenses/by-nc-sa/3.0/,96.65283446712019,44100
+153129,Phasianus,colchicus,Common Pheasant,Patrik berg,Sweden,58.5731,14.2489,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,31.163854875283448,44100
+149146,Phasianus,colchicus,Common Pheasant,Fernand DEROUSSEN,France,48.3941,2.577,song,http://creativecommons.org/licenses/by-nc-nd/3.0/,84.68875283446712,44100
+76760,Phoenicurus,phoenicurus,Common Redstart,Richard Dunn,United Kingdom,55.2189,-1.7648,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,57.5475283446712,44100
+76761,Phoenicurus,phoenicurus,Common Redstart,Richard Dunn,United Kingdom,55.2189,-1.7648,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,23.039773242630385,44100
+76762,Phoenicurus,phoenicurus,Common Redstart,Richard Dunn,United Kingdom,55.2189,-1.7648,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,49.05773242630386,44100
+153833,Phylloscopus,collybita,Common Chiffchaff,david m,United Kingdom,54.1534,-0.6051,"male, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,138.21578231292517,44100
+121963,Phylloscopus,collybita,Common Chiffchaff,david m,United Kingdom,54.1471,-0.601,"male, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,32.78344671201814,44100
+71748,Phylloscopus,collybita,Common Chiffchaff,Mark Doveston,United Kingdom,,,"Song,call",http://creativecommons.org/licenses/by-nc-nd/2.5/,60.420861678004535,44100
+101934,Phylloscopus,sibilatrix,Wood Warbler,Richard Dunn,United Kingdom,54.9651,-2.317,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,28.055283446712018,44100
+101862,Phylloscopus,sibilatrix,Wood Warbler,Richard Dunn,United Kingdom,54.9651,-2.317,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,71.05283446712018,44100
+101935,Phylloscopus,sibilatrix,Wood Warbler,Richard Dunn,United Kingdom,54.9651,-2.317,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,56.55487528344671,44100
+121601,Phylloscopus,trochilus,Willow Warbler,david m,United Kingdom,54.1248,-0.5685,"male, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,247.17038548752834,44100
+146755,Phylloscopus,trochilus,Willow Warbler,David Darrell-Lambert,United Kingdom,57.1672,-3.702,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,19.34378684807256,44100
+99529,Phylloscopus,trochilus,Willow Warbler,Tony Whitehead,United Kingdom,50.601,-3.72,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,48.03895691609977,44100
+99072,Picus,viridis,European Green Woodpecker,Richard Dunn,United Kingdom,55.07,-1.6059,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,5.851201814058957,44100
+153131,Picus,viridis,European Green Woodpecker,Patrik berg,Sweden,58.679,14.492,"drumming, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,54.59569160997732,44100
+43853,Picus,viridis,European Green Woodpecker,Stuart Fisher,United Kingdom,51.5676,0.0451,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,24.267528344671202,44100
+42344,Pluvialis,apricaria,European Golden Plover,Patrik berg,Sweden,58.5356,14.2284,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,146.8601814058957,44100
+85842,Pluvialis,apricaria,European Golden Plover,Christoph Bock,Norway,71.055,28.044,"call, song",http://creativecommons.org/licenses/by-nc-nd/2.5/,34.037551020408166,44100
+42343,Pluvialis,apricaria,European Golden Plover,Patrik berg,Sweden,58.5356,14.2284,"call, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,70.13854875283447,44100
+91185,Poecile,montanus,Willow Tit,Lars Lachmann,Poland,52.4428,21.0939,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,10.475102040816326,44100
+98691,Poecile,montanus,Willow Tit,Stein . Nilsen,Norway,69.5848,18.662,Subsong,http://creativecommons.org/licenses/by-nc-nd/2.5/,41.97854875283447,44100
+164926,Poecile,montanus,Willow Tit,Buhl Johannes,Germany,48.3447,10.9154,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,63.95977324263038,44100
+46032,Poecile,palustris,Marsh Tit,Jarek Matusiak,Poland,52.4559,20.7328,song from tree top,http://creativecommons.org/licenses/by-nc-nd/2.5/,74.76222222222222,44100
+55184,Poecile,palustris,Marsh Tit,GROSSELET Olivier,France,43.022,-0.16,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,12.773650793650793,44100
+26578,Poecile,palustris,Marsh Tit,Stuart Fisher,United Kingdom,52.9453,0.5776,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,28.917551020408162,44100
+145537,Prunella,modularis,Dunnock,Patrik berg,United Kingdom,52.9382,1.1089,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,14.471609977324263,44100
+70132,Prunella,modularis,Dunnock,Paul Driver,United Kingdom,52.509,0.661,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,54.96140589569161,44100
+94669,Prunella,modularis,Dunnock,Richard Dunn,United Kingdom,55.0698,-1.5167,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,22.047120181405894,44100
+113905,Pyrrhula,pyrrhula,Eurasian Bullfinch,Jarek Matusiak,Poland,52.1157,21.0907,"call, male, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,96.93578231292517,44100
+146707,Pyrrhula,pyrrhula,Eurasian Bullfinch,julien Rochefort,France,48.3941,2.577,"male, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,53.55102040816327,44100
+83357,Pyrrhula,pyrrhula,Eurasian Bullfinch,Volker Arnold,Germany,54.116,9.325,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,59.24548752834467,44100
+49540,Regulus,regulus,Goldcrest,Andrew McCafferty,United Kingdom,50.16232501,-1.16618667,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,45.478956916099776,44100
+78958,Regulus,regulus,Goldcrest,Jacques PREVOST,France,45.3248,5.757,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,34.74263038548753,44100
+106846,Regulus,regulus,Goldcrest,Jan-Kees Bossenbroek,France,47.6989,-3.2759,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,80.87510204081633,44100
+99937,Sitta,europaea,Eurasian Nuthatch,Tony Whitehead,United Kingdom,50.651,-3.58,Call Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,27.715691609977323,44100
+28926,Sitta,europaea,Eurasian Nuthatch,Stuart Fisher,United Kingdom,51.2573,-0.5062,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,18.573061224489795,44100
+78951,Sitta,europaea,Eurasian Nuthatch,Jacques PREVOST,France,45.307,5.5514,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,32.9140589569161,44100
+128851,Streptopelia,decaocto,Eurasian Collared Dove,Ashley Fisher,United Kingdom,49.9196,-6.3053,"male, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,48.74426303854875,44100
+101940,Streptopelia,decaocto,Eurasian Collared Dove,Richard Dunn,United Kingdom,55.065,-1.505,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,68.04875283446712,44100
+101941,Streptopelia,decaocto,Eurasian Collared Dove,Richard Dunn,United Kingdom,55.065,-1.505,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,22.647936507936507,44100
+40186,Streptopelia,turtur,European Turtle Dove,Marco Dragonetti,Italy,42.6001,11.2834,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,35.99968253968254,44100
+75092,Streptopelia,turtur,European Turtle Dove,Tomas Belka,Czech Republic,50.1167,16.7667,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,64.48777777777778,44100
+144991,Streptopelia,turtur,European Turtle Dove,Marco Dragonetti,Italy,42.6001,11.2834,song,http://creativecommons.org/licenses/by-nc-nd/3.0/,26.68777777777778,44100
+64728,Strix,aluco,Tawny Owl,Patrik berg,Sweden,58.5731,14.2489,"call, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,91.40222222222222,44100
+67089,Strix,aluco,Tawny Owl,Richard Dunn,United Kingdom,55.219,-1.765,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,100.04875283446712,44100
+76765,Strix,aluco,Tawny Owl,Richard Dunn,United Kingdom,55.219,-1.765,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,110.28875283446712,44100
+101936,Sturnus,vulgaris,Common Starling,Richard Dunn,United Kingdom,54.857,-2.2701,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,24.607120181405897,44100
+42698,Sturnus,vulgaris,Common Starling,Stuart Fisher,United Kingdom,57.8981,-6.7995,Song/subsong,http://creativecommons.org/licenses/by-nc-nd/2.5/,179.4612244897959,44100
+144382,Sturnus,vulgaris,Common Starling,Magnus Bergsson,Iceland,64.674,-21.6221,"drumming, impersonate, male, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,176.82263038548754,44100
+94964,Sylvia,atricapilla,Eurasian Blackcap,Richard Dunn,United Kingdom,55.2189,-1.7648,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,26.38344671201814,44100
+99357,Sylvia,atricapilla,Eurasian Blackcap,Tony Whitehead,United Kingdom,50.658,-3.719,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,32.94018140589569,44100
+94967,Sylvia,atricapilla,Eurasian Blackcap,Richard Dunn,United Kingdom,55.2189,-1.7648,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,78.44548752834467,44100
+102932,Sylvia,borin,Garden Warbler,Stuart Fisher,United Kingdom,51.71,-0.011,Song and subsong,http://creativecommons.org/licenses/by-nc-nd/2.5/,97.43673469387755,44100
+49443,Sylvia,borin,Garden Warbler,Andrew McCafferty,United Kingdom,50.16232501,-1.16618667,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,73.71732426303855,44100
+146260,Sylvia,borin,Garden Warbler,david m,United Kingdom,54.1329,-0.5494,"male, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,250.54018140589568,44100
+135521,Sylvia,communis,Common Whitethroat,Suzanne MacLeod,United Kingdom,51.3541,-2.0824,"female, song",http://creativecommons.org/licenses/by-nc-sa/3.0/,57.91324263038549,44100
+76740,Sylvia,communis,Common Whitethroat,Richard Dunn,United Kingdom,55.07,-1.606,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,21.36793650793651,44100
+76742,Sylvia,communis,Common Whitethroat,Richard Dunn,United Kingdom,55.07,-1.606,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,84.7671201814059,44100
+101932,Sylvia,curruca,Lesser Whitethroat,Richard Dunn,United Kingdom,55.07,-1.6059,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,19.199773242630386,44100
+101933,Sylvia,curruca,Lesser Whitethroat,Richard Dunn,United Kingdom,55.07,-1.6059,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,17.84140589569161,44100
+102278,Sylvia,curruca,Lesser Whitethroat,Richard Dunn,United Kingdom,55.2809,-1.5801,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,32.05201814058957,44100
+41816,Tringa,glareola,Wood Sandpiper,Hans Petter Kristoffersen,Norway,69.6001,19.8334,"call, song",http://creativecommons.org/licenses/by-nc-nd/2.5/,35.76140589569161,44100
+102868,Tringa,glareola,Wood Sandpiper,Jarek Matusiak,Latvia,57.962,24.796,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,26.73578231292517,44100
+102869,Tringa,glareola,Wood Sandpiper,Jarek Matusiak,Estonia,57.962,24.796,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,49.007777777777775,44100
+83912,Tringa,totanus,Common Redshank,Patrik berg,Iceland,65.5501,-17.2334,"call, song",http://creativecommons.org/licenses/by-nc-nd/2.5/,65.17528344671202,44100
+57919,Tringa,totanus,Common Redshank,Ruud van Beusekom,Iceland,65.061,-13.975,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,13.975283446712018,44100
+110167,Tringa,totanus,Common Redshank,Jens Kirkeby,Norway,69.6365,18.8518,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,22.079773242630385,44100
+133872,Troglodytes,troglodytes,Eurasian Wren,Mike Nelson,United Kingdom,55.9937,-3.5605,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,52.63650793650794,44100
+59776,Troglodytes,troglodytes,Eurasian Wren,Frank Lambert,United Kingdom,50.853,-0.164,song,http://creativecommons.org/licenses/by-nc-nd/3.0/,45.08712018140589,44100
+71024,Troglodytes,troglodytes,Eurasian Wren,Paul Driver,United Kingdom,51.7209,-0.1448,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,99.34344671201814,44100
+121168,Turdus,iliacus,Redwing,Lars Theng,Sweden,58.1422,13.4531,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,38.687120181405895,44100
+27962,Turdus,iliacus,Redwing,Patrik berg,Sweden,58.453481,14.229355,Song,http://creativecommons.org/licenses/by-nc-sa/3.0/,72.46344671201814,44100
+25119,Turdus,iliacus,Redwing,Niels Krabbe,Finland,65.0667,24.6334,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,22.77877551020408,44100
+127996,Turdus,merula,Common Blackbird,david m,United Kingdom,54.1226,-0.5429,"call, flight call, male, song",http://creativecommons.org/licenses/by-nc-nd/3.0/,251.50671201814058,44100
+72861,Turdus,merula,Common Blackbird,Stuart Fisher,United Kingdom,51.5278,-0.0101,Song of a male,http://creativecommons.org/licenses/by-nc-nd/2.5/,45.06122448979592,44100
+94958,Turdus,merula,Common Blackbird,Richard Dunn,United Kingdom,55.0698,-1.5167,song,http://creativecommons.org/licenses/by-nc-nd/2.5/,24.34589569160998,44100
+96608,Turdus,philomelos,Song Thrush,Fraser Simpson,United Kingdom,51.636,-0.328,Song,http://creativecommons.org/licenses/by-nc-nd/2.5/,62.17120181405895,44100
+132392,Turdus,philomelos,Song Thrush,david m,United Kingdom,54.12,-0.5445,song,http://creativecommons.org/licenses/by-nc-nd/3.0/,250.77528344671202,44100
+146756,Turdus,philomelos,Song Thrush,David Darrell-Lambert,United Kingdom,51.6608,0.0031,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,43.34378684807256,44100
+27060,Vanellus,vanellus,Northern Lapwing,Patrik berg,Sweden,58.4051,14.3028,song,http://creativecommons.org/licenses/by-nc-sa/3.0/,73.1948752834467,44100
+97982,Vanellus,vanellus,Northern Lapwing,Herman van der Meer,Netherlands,52.152,4.347,"call, song",http://creativecommons.org/licenses/by-nc-nd/2.5/,128.54834467120182,44100
+69855,Vanellus,vanellus,Northern Lapwing,Ruud van Beusekom,Netherlands,52.2598,5.297,"call, song",http://creativecommons.org/licenses/by-nc-nd/2.5/,35.50018140589569,44100
