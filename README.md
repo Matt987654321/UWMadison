@@ -59,7 +59,7 @@ Run the split multiple times with different random seeds and report a range inst
 ### Pipeline diagram: audio → windowing → energy filter → spectrogram → CNN → embedding → triplet loss.
 
 ### Energy histogram Distribution
-[Distribution of Energy](outputs/Distribution_Of_RMSENERGY.png)
+![Distribution of Energy](outputs/Distribution_Of_RMSENERGY.png)
 
 ### t-SNE plot
 ![t-SNE plot](outputs/tsne_species.png)
