@@ -2,9 +2,9 @@
 
 Uses the British Birdsong Dataset (264 recordings, 88 species, from Xeno-Canto) to train a model that learns what makes bird calls sound similar or different. Recordings of the same species should end up close together in embedding space, different species farther apart. 
 
-## Why metric learning
+## Metric learning reasoning
 
-Each species only has 3 recordings. That's not enough to do normal classification with a real test set, so instead of training the model to output a species label, the model learns a general similarity function and gets tested on species it's never seen.
+Each species only has 3 recordings, which is not enough to do normal classification with a real test set, so instead of training the model to output a species label, the model learns a general similarity function and gets tested on species it's never seen.
 
 # Setup
 
@@ -21,8 +21,8 @@ Everything is in one notebook, birdsong_project.ipynb, plus model_5.pt for the s
 ## What I did
 Explored the metadata. 264 recordings, 88 species, exactly 3 recordings per species. Only about 120 of 264 are actually from the UK. The type field (song/call/etc.) is messy free text.
 The type field mixes labels like "call, song", and there's no way to tell where a call ends and a song starts within a recording. Filtered to recordings where type mentions "song," then kept only species with at least 2 of those recordings left. Ended up with 74 species, 225 recordings. Some windows from mixed-label recordings probably come from a call, not a song — noted as a limitation, not something worth trying to fix without ground truth.
-With only 3 recordings per species, normal classification doesn't work. Went with metric learning instead, tested by holding out species entirely.
-Looked at spectrograms of a few recordings. Most of a recording is silence. The bird calls in short bursts, usually under 1-2 seconds.
+With only 3 recordings per species, normal classification doesn't work, so I went with metric learning instead, tested by holding out species entirely.
+I looked at spectrograms of a few recordings. Most of a recording is silence. The bird calls in short bursts, usually under 1-2 seconds.
 Tried to load the audio files and got the paths wrong twice — the dataset unzips into a nested songs/songs/ folder, and the metadata's file_id doesn't include the xc prefix or .flac extension that's actually in the filenames. Fixed by just listing the folder and looking at real filenames instead of guessing.
 Wrote a windowing function that slices each recording into 1-second chunks with 50% overlap, so a handful of recordings produce a lot more training examples.
 Wrote an energy filter to drop windows that are mostly silence. There's no ground truth for silence vs. call, so no threshold is "correct." Tried 0.01, 0.03, and 0.068 (from Otsu's method), and checked how many recordings each one wiped out entirely. 0.068 killed 38% of recordings. 0.01 killed under 1%. Used 0.01.
@@ -31,16 +31,16 @@ Converted the surviving windows to mel spectrograms, 128 mel bins, dB scale.
 Split species into train/val/test, 70/15/15, split by species so none show up in more than one set.
 Built a dataset class that samples an anchor and a positive from the same species (different recordings if possible) and a negative from a different species, sampling species uniformly so ones with more windows don't dominate.
 Built a small CNN that turns one spectrogram into a 64-number embedding.
-Trained with triplet loss, margin 1.0, Adam, lr=1e-3. Started at 10 epochs, then went to 40 once it was clear loss was still dropping. At one point WINDOW_SIZE got left at 0.5 seconds from an earlier test, which caused a spectrogram shape mismatch that looked like a bug until I traced it back to the constant.
+Trained with triplet loss, margin 1.0, Adam, lr=1e-3. Started at 10 epochs, then went to 40 once it was clear loss was still dropping, then 50 to allow the loss to continue dropping. At one point WINDOW_SIZE got left at 0.5 seconds from an earlier test, which caused a spectrogram shape mismatch that looked like a bug until I traced it back to the constant.
 Evaluated with a one-shot test: one reference recording of a held-out species, a query from a different recording of the same species, and a distractor from a different held-out species. Correct if the query lands closer to the reference than to the distractor. First run gave a big gap between val and test (58% vs 82%). After training longer and running more trials it settled closer, 60% val vs 71% test. The test set got checked more than once during this, not just at the very end.
 Made a t-SNE plot of the test-species embeddings to see the clustering.
 
-Once epochs went up, training took close to 2 hours per run, which is why hard negative mining didn't get fully tested — started implementing it but didn't have time to run it properly.
+Once epochs went up, training took close to 2 hours per run, which is why hard negative mining didn't get tested — I believe it would have taken to much time, which would not be reasonable for a project such as this.
 
 ## Results
-Split	Accuracy	Trials
-Validation	60.10%	1000
-Test	70.85%	916
+Split	Accuracy	     Trials
+Validation	60.10%	  1000
+Test	70.85%	        916
 
 Random guessing is about 50%. Both numbers are above that. The gap between them is mostly because there are only about 11 species in each split, so which species end up where matters.
 
@@ -59,9 +59,10 @@ Run the split multiple times with different random seeds and report a range inst
 ### Pipeline diagram: audio → windowing → energy filter → spectrogram → CNN → embedding → triplet loss.
 
 ### Energy histogram Distribution
+[Distribution of Energy](Distribution_Of_RMSENERGY)
 
 ### t-SNE plot
-![t-SNE plot](tsne_test_species.png)
+[t-SNE plot](tsne_test_species.png)
 
 ### Training Cycle
 | Epoch | Loss |
